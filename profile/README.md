@@ -16,5 +16,4 @@ We focus on building people together with technology, making it more accessible 
 
 ### Learn More
 
-To find out about all our products, services, and more, check out our website!
-https://netrocorp.net
+To find out about all our products, services, and more, check out our [website](https://netrocorp.net) or join our [Discord](https://discord.com/invite/HdKeWtV).
