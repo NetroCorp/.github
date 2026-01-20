@@ -1,7 +1,13 @@
-## Hi There 👋
+<p align="left">
+<a href="https://netrocorp.net" target="_blank" align="center">
+  <img width="auto" height="180" alt="collective logo" src="https://raw.githubusercontent.com/NetroCorp/.github/refs/heads/main/boxed_wordmark_blue_white_centered.png">
+</a>
+</p>
 
-We are Netro Corporation, the Home of the Future. We started doing business in 2022.
-You may also see "Netro Corp" from time to time.
+## hello, we are Netro - home of the future 👋
+(EST. 2022)
+
+We’re a small software collective creating what we love. From hosting services to websites, Netro is where we collaborate to build new software. If that sounds cool to you, [join us](https://forms.gle/SNMPStL5kNd9yxZP7)!
 
 ### Our Goal
 
